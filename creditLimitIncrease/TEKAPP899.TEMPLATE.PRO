@@ -7,11 +7,11 @@
  be bound by the End User License Agreement (the "EULA") included in these 
  downloaded files as EULA.txt and made available at www.tekchoice.com/EULA.
 
- SPECFILENAME : TEKAPP899.TEMPLATE.SET
+ SPECFILENAME : TEKAPP011.TEMPLATE.PRO
  VERSION      : 001
  COPYRIGHT    : TekChoice, LLC 2022 © 
 
- Description  : Base template setting of variables for TekApp
+ Description  : Base template procedures for TekApp
 
  Programmed   : TekChoice LLC
 
